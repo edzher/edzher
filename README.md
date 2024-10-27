@@ -7,11 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edzher)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/D3L1K4T3S)
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/6558042/)
-![Metrics](https://github.com/edzher/edzher/blob/main/github-metrics.svg)
-
 
 <!--
+  ![Metrics](https://github.com/edzher/edzher/blob/main/github-metrics.svg)
   ![](https://komarev.com/ghpvc/?username=your-github-username)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edzher)](https://github.com/anuraghazra/github-  readme-stats)
 -->
