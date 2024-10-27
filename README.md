@@ -1,5 +1,5 @@
-# Hi there, I'm ![Egor](www.linkedin.com/in/egor-zhelagin) 👋
-## Computer science student. Software developer on Golang/Kotlin/Java
+# Hi there👋
+## I'am Egor, Computer science student. Software developer on Golang/Kotlin/Java
 
 - 🔭 I’m currently working on AIO
 - 🌱 I’m currently learning System Design
