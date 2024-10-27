@@ -1,4 +1,4 @@
-# Hi there, I'm [Egor](www.linkedin.com/in/egor-zhelagin) 👋
+# Hi there, I'm ![Egor](www.linkedin.com/in/egor-zhelagin) 👋
 ## Computer science student. Software developer on Golang/Kotlin/Java
 
 - 🔭 I’m currently working on AIO
