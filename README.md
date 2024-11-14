@@ -6,13 +6,7 @@
 - 📫 How to reach me: zhelagin.egor@yandex.ru
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edzher)](https://github.com/anuraghazra/github-readme-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/D3L1K4T3S)
-
-<!--
-  ![Metrics](https://github.com/edzher/edzher/blob/main/github-metrics.svg)
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edzher)](https://github.com/anuraghazra/github-  readme-stats)
--->
+![Leetcode Stats](https://leetcard.jacoblin.cool/D3L1K4T3S?ext=heatmap)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
